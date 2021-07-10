@@ -1,1 +1,1 @@
-page responsiveness using media query
+page responsiveness using media query and flexbox
